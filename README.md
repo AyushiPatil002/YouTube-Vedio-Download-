@@ -4,7 +4,7 @@
 The below Prerequsites needs to be install /update before going to run the python script. 
 
 -install pytube package
--update pytube package
--import YouTube module 
--install yt_dlp module
+/update pytube package
+/import YouTube module 
+/install yt_dlp module
 -
